@@ -11,6 +11,16 @@
 
 ## Coursera-Specializations
 
+* ***Machine Learning*** by Stanford University
+* ***Machine Learning Specialization*** by University of Washington
+* ***IBM Introduction to Machine Learning Specialization*** by IBM
+* ***IBM Machine Learning Professional Certificate*** by IBM
+* ***Machine Learning with TensorFlow on Google Cloud Platform Specialization*** by Google Cloud
+* ***Machine Learning: Algorithms in the Real World Specialization*** by Alberta Machine Intelligence Institute
+* ***Recommender Systems Specialization*** by University of Minnesota
+* ***Data Mining Specialization*** by University of Illinois at Urbana-Champaign
+* ***Process Mining: Data science in Action*** by Eindhoven University of Technology
+
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## YouTube-Playlists
