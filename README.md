@@ -2,7 +2,8 @@
 
 # Machine-Learning
  Machine learning lectures for computer science students.
- <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
 ## `Part 1`  `30 hrs`
