@@ -48,7 +48,7 @@ Machine Learning Algorithms Training for computer science students.
             <td align=center width="175px">🖥️ Udacity</td>
             <td align=center width="25px">15</td>
             <td align=center width="175px">💻 Coursera</td>
-            <td align=center width="25px">50</td>
+            <td align=center width="25px">45</td>
             <td align=center width="175px">🎞️ YouTube</td>
         </tr>
     </tbody>
