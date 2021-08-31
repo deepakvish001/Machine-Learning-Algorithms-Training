@@ -3,21 +3,56 @@
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/machine-learning.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/supervised-learning.jpg">
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/unsupervised-learning.jpg">
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
 
 Machine Learning Algorithms Training for computer science students.
 
 ## :dart: `Training Summary`
 
-| `???` | :clock4:        Hours       | `??`  | :calendar:         Weeks    | `?`   | :open_file_folder:  Courses  | `?`   | :clipboard:   Modules   |
-|:-----:|:---------------------------:|:-----:|:---------------------------:|:-----:|:----------------------------:|:-----:|:-----------------------:|
-| `??`  | :bookmark_tabs: Lectures    | `???` | :card_index:       Sections | `???` | :pencil:            Quizzes  | `???` | :paperclip:   Practices |
-| `??`  | :bulb:          Assignments | `???` | :label:            Tasks    | `??`  | :video_game:        Projects | `???` | :bookmark:    Tasks     |
-| `??`  | :books:         Textbooks   | `?`   | :desktop_computer: Udacity  | `??`  | :computer:          Coursera | `??`  | :film_strip:  YouTube   |
+<table>
+    <tbody>
+        <tr>
+            <td align=center width="25px">300</td>
+            <td align=center width="175px">🕓 Hours</td>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">📆 Weeks</td>
+            <td align=center width="25px">3</td>
+            <td align=center width="175px">📂 Courses</td>
+            <td align=center width="25px">6</td>
+            <td align=center width="175px">📋 Modules</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">35</td>
+            <td align=center width="175px">📑 Lectures</td>
+            <td align=center width="25px">210</td>
+            <td align=center width="175px">📇 Sections</td>
+            <td align=center width="25px">70</td>
+            <td align=center width="175px">📝 Quizzes</td>
+            <td align=center width="25px">525</td>
+            <td align=center width="175px">📎 Practices</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">30</td>
+            <td align=center width="175px">💡 Assignments</td>
+            <td align=center width="25px">300</td>
+            <td align=center width="175px">🏷️ Tasks</td>
+            <td align=center width="25px">40</td>
+            <td align=center width="175px">🎮 Projects</td>
+            <td align=center width="25px">400</td>
+            <td align=center width="175px">🔖 Tasks</td>
+        </tr>
+        <tr>
+            <td align=center width="25px">20</td>
+            <td align=center width="175px">📚 Textbooks</td>
+            <td align=center width="25px">10</td>
+            <td align=center width="175px">🖥️ Udacity</td>
+            <td align=center width="25px">15</td>
+            <td align=center width="175px">💻 Coursera</td>
+            <td align=center width="25px">50</td>
+            <td align=center width="175px">🎞️ YouTube</td>
+        </tr>
+    </tbody>
+</table>
 
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
@@ -83,399 +118,198 @@ Machine Learning Algorithms Training for computer science students.
 
 
 
-<br>
+<br><br>
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
+## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md)
 
 <table>
-    <thead>
-        <tr>
-            <th width="40%">Specialization</th>
-            <th width="60%">Course Name</th>
-            <th>Hrs</th>
-        </tr>
-    </thead>
     <tbody>
-            <tr>
-                <td rowspan=1 align=center>
-Art and Science of Machine Learning by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/art-science-ml">Art and Science of Machine Learning</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Machine Learning by Stanford University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></td>
-                <td align="center">55</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-IBM Introduction to Machine Learning  
-<a href="https://www.coursera.org/specializations/ibm-intro-machine-learning">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/supervised-learning-regression">Supervised Learning: Regression</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/supervised-learning-classification">Supervised Learning: Classification</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/ibm-unsupervised-learning">Unsupervised Learning</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=6 align=center>
-IBM Machine Learning Profession 
-<a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/supervised-learning-regression">Supervised Learning: Regression</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/supervised-learning-classification">Supervised Learning: Classification</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/ibm-unsupervised-learning">Unsupervised Learning</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/deep-learning-reinforcement-learning">Deep Learning and Reinforcement Learning</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/time-series-survival-analysis">Specialized Models: Time Series and Survival Analysis</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-AI for Scientific Research  
-<a href="https://www.coursera.org/specializations/artificial-intelligence-scientific-research">Specialization</a> by LearnQuest<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/data-science-and-scikit-learn-in-python">Introduction to Data Science and scikit-learn in Python</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/machine-learning-models-in-science">Machine Learning Models in Science</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/neural-networks-random-forests">Neural Networks and Random Forests</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/ai-for-drug-discovery">Capstone Project: Advanced AI for Drug Discovery</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Machine Learning  
-<a href="https://www.coursera.org/specializations/machine-learning">Specialization</a> by University of Washington<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/ml-foundations">Machine Learning Foundations: A Case Study Approach</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/ml-regression">Machine Learning: Regression</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/ml-classification">Machine Learning: Classification</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/ml-clustering-and-retrieval">Machine Learning: Clustering & Retrieval</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Data Science Fundamentals  
-<a href="https://www.coursera.org/specializations/data-science-fundamentals">Specialization</a> by University of California Irvine<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20irvine.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/intro-analyticthinking-datascience-datamining">Intro to Analytic Thinking, Data Science, and Data Mining</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/predictive-modeling-model-fitting-regression-analysis">Predictive Modeling, Model Fitting, and Regression Analysis</a></td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/cluster-analysis-association-mining-and-model-evaluation">Cluster Analysis, Association Mining, and Model Evaluation</a></td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/natural-language-processing-captsone-assignment">Natural Language Processing and Capstone Assignment</a></td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-Applied Data Science with Python  
-<a href="https://www.coursera.org/specializations/data-science-python">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/python-data-analysis">Introduction to Data Science in Python</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-plotting">Applied Plotting, Charting & Data Representation in Python</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-machine-learning">Applied Machine Learning in Python</a></td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-text-mining">Applied Text Mining in Python</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-social-network-analysis">Applied Social Network Analysis in Python</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td rowspan=2 align=center>
-Machine Learning by University of London 
-<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/uol-machine-learning-for-all">Machine Learning for All</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-science-k-means-clustering-python">Foundations of Data Science: K-Means Clustering in Python</a></td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Machine Learning: Algorithms in the Real World  
-<a href="https://www.coursera.org/specializations/machine-learning-algorithms-real-world">Specialization</a> by Alberta Machine Intelligence Institute<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/machine-learning-applied">Introduction to Applied Machine Learning</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/machine-learning-classification-algorithms">Machine Learning Algorithms: Supervised Learning Tip to Tail</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-machine-learning">Data for Machine Learning</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/optimize-machine-learning-model-performance">Optimizing Machine Learning Model Performance</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-Recommender Systems  
-<a href="https://www.coursera.org/specializations/recommender-systems">Specialization</a> by University of Minnesota<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/recommender-systems-introduction">Introduction to Recommender Systems: Non-Personalized and Content-Based</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/collaborative-filtering">Nearest Neighbor Collaborative Filtering</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/recommender-metrics">Recommender Systems: Evaluation and Metrics</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/matrix-factorization">Matrix Factorization and Advanced Techniques</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/recommeder-systems-capstone">Recommender Systems Capstone</a></td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td rowspan=3 align=center>
-Machine Learning for Trading  
-<a href="https://www.coursera.org/specializations/machine-learning-trading">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/introduction-trading-machine-learning-gcp">Introduction to Trading, Machine Learning & GCP</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/machine-learning-trading-finance">Using Machine Learning in Trading and Finance</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/trading-strategies-reinforcement-learning">Trading Strategies as a Reinforcement Learning (RL) Problem</a></td>
-                <td align="center">5</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-Machine Learning with TensorFlow on Google Cloud Platform  
-<a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/google-machine-learning">How Google does Machine Learning</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/launching-machine-learning">Launching into Machine Learning</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/intro-tensorflow">Intro to TensorFlow</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/feature-engineering">Feature Engineering</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/art-science-ml">Art and Science of Machine Learning</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=9 align=center>
-Preparing for Google Cloud Certification: Machine Learning Engineer Profession 
-<a href="https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Big Data and Machine Learning Fundamentals</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/google-machine-learning">How Google does Machine Learning</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/launching-machine-learning">Launching into Machine Learning</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/intro-tensorflow">Intro to TensorFlow</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/feature-engineering">Feature Engineering</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/art-science-ml">Art and Science of Machine Learning</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/gcp-production-ml-systems">Production Machine Learning Systems</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/mlops-fundamentals">MLOps (Machine Learning Operations) Fundamentals</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/ml-pipelines-google-cloud">ML Pipelines on Google Cloud</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=6 align=center>
-Data Mining  
-<a href="https://www.coursera.org/specializations/data-mining">Specialization</a> by University of Illinois at Urbana-Champaign<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/datavisualization">Data Visualization</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/text-retrieval">Text Retrieval and Search Engines</a></td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/text-mining">Text Mining and Analytics</a></td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-patterns">Pattern Discovery in Data Mining</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/cluster-analysis">Cluster Analysis in Data Mining</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-mining-project">Data Mining Project</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-Sports Performance Analytics  
-<a href="https://www.coursera.org/specializations/sports-analytics">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/foundations-sports-analytics">Foundations of Sports Analytics: Data, Representation, and Models in Sports</a></td>
-                <td align="center">50</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/moneyball-and-beyond">Moneyball and Beyond</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/prediction-models-sports-data">Prediction Models with Sports Data</a></td>
-                <td align="center">35</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/wearable-technologies">Wearable Technologies and Sports Analytics</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/machine-learning-sports-analytics">Introduction to Machine Learning in Sports Analytics</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Process Mining: Data science in Action by Eindhoven University of Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/process-mining">Process Mining: Data science in Action</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td rowspan=3 align=center>
-Data Mining Foundations and Practice  
-<a href="https://www.coursera.org/specializations/data-mining-foundations-practice">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/data-mining-pipeline">Data Mining Pipeline</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-mining-methods">Data Mining Methods</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-mining-theory-practice-project">Data Mining Project</a></td>
-                <td align="center">40</td>
-            </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Machine Learning by Stanford University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">IBM Machine Learning Profession Specialization by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">AI for Scientific Research Specialization by LearnQuest</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Machine Learning Specialization by University of Washington</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/ibm.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20washington.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Data Science Fundamentals Specialization by University of California Irvine</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Applied Data Science with Python Specialization by University of Michigan</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Machine Learning by University of London</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Machine Learning: Algorithms in the Real World Specialization by Alberta Machine Intelligence Institute</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20irvine.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20london.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/alberta%20machine%20intelligence%20institute.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Recommender Systems Specialization by University of Minnesota</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Machine Learning for Trading Specialization by Google Cloud</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Machine Learning with TensorFlow on Google Cloud Platform Specialization by Google Cloud</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Preparing for Google Cloud Certification: Machine Learning Engineer Profession Specialization by Google Cloud</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20minnesota.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/google%20cloud.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Data Mining Specialization by University of Illinois at Urbana-Champaign</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Sports Performance Analytics Specialization by University of Michigan</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Process Mining: Data science in Action by Eindhoven University of Technology</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/README.md">Data Mining Foundations and Practice Specialization by University of Colorado Boulder</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="200"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="200"></img></td>
+        </tr>
     </tbody>
 </table>
 
-<br>
+<br><br>
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
 ## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Specializations/README.md)
+
+<table>
+    <tbody>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">3Blue1Brown Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">freeCodeCamp.org Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">MIT OpenCourseWare Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">edureka Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Google Developers Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">CodeWithHarry Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/3Blue1Brown.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/freeCodeCamp.org.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/MIT%20OpenCourseWare.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/edureka.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Google%20Developers.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/CodeWithHarry.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Simplilearn Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Stanford Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">The Coding Train Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Lex Fridman Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">ProgrammingKnowledge Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Siraj Raval Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Simplilearn.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Stanford.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/The%20Coding%20Train.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Lex%20Fridman.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/ProgrammingKnowledge.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Siraj%20Raval.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">sentdex Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Intellipaat Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Google Cloud Tech Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Tech With Tim Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Last moment tuitions Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">StatQuest with Josh Starmer Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/sentdex.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Intellipaat.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Google%20Cloud%20Tech.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Tech%20With%20Tim.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Last%20moment%20tuitions.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/StatQuest%20with%20Josh%20Starmer.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Easy Engineering Classes Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Krish Naik Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Udacity Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Geeks Lesson Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Caleb Curry Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">DeepMind Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Easy%20Engineering%20Classes.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Krish%20Naik.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Udacity.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Geeks%20Lesson.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Caleb%20Curry.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/DeepMind.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">codebasics Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">NPTEL-NOC IITM Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">5 Minutes Engineering Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">stanfordonline Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">DeepLearningAI Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Data School Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/codebasics.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/NPTEL-NOC%20IITM.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/5%20Minutes%20Engineering.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/stanfordonline.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/DeepLearningAI.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Data%20School.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">The Morpheus Tutorials Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Steve Brunton Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Artificial Intelligence - All in One Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Stanford University School of Engineering Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Alexander Amini Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">deeplizard Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/The%20Morpheus%20Tutorials.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Steve%20Brunton.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Artificial%20Intelligence%20-%20All%20in%20One.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Stanford%20University%20School%20of%20Engineering.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Alexander%20Amini.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/deeplizard.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">caltech Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Hung-yi Lee Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">mathematicalmonk Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">DeepLearning.TV Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Cognitive Class Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Jalayer Academy Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/caltech.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Hung-yi%20Lee.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/mathematicalmonk.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/DeepLearning.TV.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Cognitive%20Class.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Jalayer%20Academy.jpg" width="200"></img></td>
+        </tr>
+        <tr>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Augmented Startups Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Jeremy Howard Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Data Science Dojo Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">AIEngineering Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">Enthought Playlists</a></td>
+<td align=center width="16.667%"><a href="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Artificial-Intelligence-Playlists/README.md">The AI University Playlists</a></td>
+        </tr>
+        <tr>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Augmented%20Startups.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Jeremy%20Howard.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Data%20Science%20Dojo.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/AIEngineering.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/Enthought.jpg" width="200"></img></td>
+<td><img src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/The%20AI%20University.jpg" width="200"></img></td>
+        </tr>
+    </tbody>
+</table>
