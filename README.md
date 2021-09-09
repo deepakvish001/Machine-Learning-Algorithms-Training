@@ -138,12 +138,12 @@ Machine Learning Algorithms Training for computer science students.
     <tbody>
         <tr>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/machine-learning/README.md">Fundamentals of Machine Learning for Predictive Data Analytics, John D. Kelleher</a></td>
-<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/machine-learning/README.md">Hands-On Machine Learning with Scikit-Learn and TensorFlow, Aurelien Geron</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/machine-learning/README.md">Building Machine Learning Systems with Python, Willi Richert</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/machine-learning/README.md">Introduction to Machine Learning with Python, Andreas C. Müller</a></td>
         </tr>
         <tr>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Fundamentals-of-Machine-Learning-for-Predictive-Data-Analytics-John-D.-Kelleher.jpg"></td>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow-Aurelien-Geron.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Building-Machine-Learning-Systems-with-Python-Willi-Richert.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Introduction-to-Machine-Learning-with-Python-Andreas-C.-Muller.jpg"></td>
         </tr>
     </tbody>
@@ -179,12 +179,12 @@ Machine Learning Algorithms Training for computer science students.
 <table>
     <tbody>
         <tr>
-<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/machine-learning/README.md">Python Machine Learning, Sebastian Raschka</a></td>
+<td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/machine-learning/README.md">Machine Learning Yearning, Andrew Ng</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/machine-learning/README.md">The Hundred-Page Machine Learning Book, Andriy Burkov</a></td>
 <td align=center width="350"><a href="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/machine-learning/README.md">Understanding Machine Learning, Shai Shalev-Shwartz</a></td>
         </tr>
         <tr>
-<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Python-Machine-Learning-Sebastian-Raschka.jpg"></td>
+<td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Machine-Learning-Yearning-Andrew-Ng.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/The-Hundred-Page-Machine-Learning-Book-Andriy-Burkov.jpg"></td>
 <td align=center width="350"><img align="center" width="250" height="320" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/covers/Understanding-Machine-Learning-Shai-Shalev-Shwartz.jpg"></td>
         </tr>
